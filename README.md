@@ -1,2 +1,2 @@
 # daily_push
-just for learning
+Just for learning
